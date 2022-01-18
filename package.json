@@ -1,0 +1,20 @@
+{
+  "name": "ugly-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEM-NE/ugly-sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NEM-NE/ugly-sequelize/issues"
+  },
+  "homepage": "https://github.com/NEM-NE/ugly-sequelize#readme"
+}
